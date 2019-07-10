@@ -17,7 +17,7 @@ if ( m/^(Question\s\d{1,3}+)/gm ){print "[".$1."]\n"}
 if ( m/class="entry-title[^\>]+>(.+)<\/h1>/gm ){print $1."\n"}
 if ( m/<p>(.+)<br \/>/gm ){print $1."\n"}
 if ( m/<strong>(.+)<\/strong><br \/>/gm ){print $1."\n"}
-if ( m/(Correct Answer:[^\<]+?)\</gm ){print "\n\n\n\n\n\n\n\ni\n\n".$1."\n\n"}
+if ( m/(Correct Answer:[^\<]+?)\</gm ){print "\n\n\n\n\n\n\n\n\n\n".$1."\n\n"}
 
 #while ( /class="entry-title[^\>]+>(.+)<\/h1>/gm ) {
 #while ( m/\<p\>(.+)\<br \/>.+\<strong\>/gm ) {
