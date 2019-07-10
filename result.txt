@@ -169,7 +169,7 @@ Which of the following commands will reduce all consecutive spaces down to a sin
 A. tr "s”'<a.txt> b.txt
 B. tr-c ” < a.txt> b.txt
 C. tr-d ”< a.txt> b.txt
-D. tr-r”&’n'< a.txt > b.txt
+D. tr-r”’n'< a.txt > b.txt
 E. tr-s ”<a.txt>b.txt
 
 
@@ -329,13 +329,13 @@ Correct Answer: C
 
 
 [Question 19]
-Which of the following commands replaces each occurrence of bob&’ in the file letter with Bob&’ and writes the result to the file newletter?
-Which of the following commands replaces each occurrence of bob&’ in the file letter with Bob&’ and writes the result to the file newletter?
-A. sed &‘/bob/Bob&’ letter > newletter
+Which of the following commands replaces each occurrence of bob’ in the file letter with Bob’ and writes the result to the file newletter?
+Which of the following commands replaces each occurrence of bob’ in the file letter with Bob’ and writes the result to the file newletter?
+A. sed ‘/bob/Bob’ letter > newletter
 B. sed s/bob/Bob/ letter < newletter
-C. sed &‘s/bob/Bob&’ letter > newletter
-D. sed &‘s/bob/Bob/g&’ letter > newletter
-E. sed &‘s/bob, Bob/&’ letter > newletter
+C. sed ‘s/bob/Bob’ letter > newletter
+D. sed ‘s/bob/Bob/g’ letter > newletter
+E. sed ‘s/bob, Bob/’ letter > newletter
 
 
 
@@ -348,8 +348,8 @@ Correct Answer: D
 
 
 [Question 20]
-Which of the following options must be passed to a filesystem&’s entry in /etc/fstab in order to mount the file system without root privileges?
-Which of the following options must be passed to a filesystem&’s entry in /etc/fstab in order to mount the file system without root privileges?
+Which of the following options must be passed to a filesystem’s entry in /etc/fstab in order to mount the file system without root privileges?
+Which of the following options must be passed to a filesystem’s entry in /etc/fstab in order to mount the file system without root privileges?
 A. auto
 B. norestrict
 C. noauto
@@ -614,7 +614,7 @@ A. Boot device order
 B. Linux kernel version
 C. Timezone
 D. Hardware configuration
-E. The system&’s hostname
+E. The system’s hostname
 
 
 
@@ -629,11 +629,11 @@ Correct Answer: AD
 [Question 35]
 Which of the following commands will change all CR-LF pairs in an imported text file, userlist.txt, to Linux standard LF characters and store it as newlist.txt?
 Which of the following commands will change all CR-LF pairs in an imported text file, userlist.txt, to Linux standard LF characters and store it as newlist.txt?
-A. tr &‘rn&’ ”< userlist.txt > newlist.txt
-B. tr -c &‘nr&’ ” < newlist.txt > userlist.txt
-C. tr -d &‘r&’ < userlist.txt > newlist.txt
-D. tr &‘r&’ &‘n&’ userlist.txt newlist.txt
-E. tr &–s &‘AM&’ &‘AJ&’ userlist.txt newlist.txt
+A. tr ‘rn’ ”< userlist.txt > newlist.txt
+B. tr -c ‘nr’ ” < newlist.txt > userlist.txt
+C. tr -d ‘r’ < userlist.txt > newlist.txt
+D. tr ‘r’ ‘n’ userlist.txt newlist.txt
+E. tr –s ‘AM’ ‘AJ’ userlist.txt newlist.txt
 
 
 
@@ -648,9 +648,9 @@ Correct Answer: C
 [Question 36]
 Which of the following commands displays the contents of a gzip compressed tar archive?
 Which of the following commands displays the contents of a gzip compressed tar archive?
-A. gzip archive.tgz | tar xvf &–
+A. gzip archive.tgz | tar xvf –
 B. tar ztf archive.tgz
-C. gzip -d archive.tgz | tar tvf &–
+C. gzip -d archive.tgz | tar tvf –
 D. tar cf archive.tgz
 
 
@@ -1081,10 +1081,10 @@ Correct Answer: C
 [Question 61]
 Which of the following commands lists all currently installed packages when using RPM package management?
 Which of the following commands lists all currently installed packages when using RPM package management?
-A. yum &–query&–all
-B. yum&–list&–installed
-C. rpm &–query &–all
-D. rpm &–list installed
+A. yum –query–all
+B. yum–list–installed
+C. rpm –query –all
+D. rpm –list installed
 
 
 
@@ -1136,9 +1136,9 @@ Correct Answer: B
 [Question 64]
 Which of the following commands will remove that directory?
 A user accidentally created the subdirectory dir in his home directory. Which of the following commands will remove that directory?
-A. rmdir ~/dir&’
+A. rmdir ~/dir’
 B. rmdir "~/dir"
-C. rmdir ~/&’dir&’
+C. rmdir ~/’dir’
 D. rmdir ~/dir
 E. rmdir ~/\dir
 
@@ -1283,10 +1283,10 @@ Correct Answer: C
 [Question 72]
 Which grep command will print only the lines that do not end with a / in the file foo?
 Which grep command will print only the lines that do not end with a / in the file foo?
-A. grep &‘/$&’ foo
-B. grep &‘/#&’ foo
-C. grep -v &‘/$&’ foo
-D. grep -v &‘/#&’ foo
+A. grep ‘/$’ foo
+B. grep ‘/#’ foo
+C. grep -v ‘/$’ foo
+D. grep -v ‘/#’ foo
 
 
 
@@ -1301,7 +1301,7 @@ Correct Answer: C
 [Question 73]
 Which command will display messages from the kernel that were output during the normal boot sequence?
 SIMULATION
-A. &‘dmesg&’ or &‘/bin/dmesg&’
+A. ‘dmesg’ or ‘/bin/dmesg’
 
 
 
@@ -1385,8 +1385,8 @@ Correct Answer: A
 Which permissions and ownership should the file /etc/passwd have?
 Which permissions and ownership should the file /etc/passwd have?
 A. -rw1 rootroot531 Jun 5 22:45 /etc/passwd
-B. -rw-r&–r&–1 rootroot531 Jun 5 22:45 /etc/passwd
-C. -rw-r&–r&–1 11531 Jun 5 22:45 /etc/passwd
+B. -rw-r–r–1 rootroot531 Jun 5 22:45 /etc/passwd
+C. -rw-r–r–1 11531 Jun 5 22:45 /etc/passwd
 D. -rw1 11531 Jun 5 22:45 /etc/passwd
 
 
@@ -1523,7 +1523,7 @@ Which of the following statements describes a difference between GNU GRUB Legacy
 Which of the following statements describes a difference between GNU GRUB Legacy and GRUB 2?
 A. GRUB 2 no longer requires a configuration file.
 B. Partition numbers start at 0 in GRUB Legacy and 1 in GRUB 2.
-C. grub-mkconfig only works with GRUB Legacy if the &– &– version 1 option is used.
+C. grub-mkconfig only works with GRUB Legacy if the – – version 1 option is used.
 D. The configuration file menu.lst (and grub.conf) have been replaced with grub.config.
 
 
@@ -1677,7 +1677,7 @@ Correct Answer: A
 [Question 95]
 Which of the following statements is correct for a command line ending with a & character?
 Which of the following statements is correct for a command line ending with a & character?
-A. The command&’s output is redirected to /dev/null.
+A. The command’s output is redirected to /dev/null.
 B. The result of the command defines if the next command will be run.
 C. The command is run in background of the current shell.
 D. The command is run as a direct child of the init process.
@@ -1712,8 +1712,8 @@ Correct Answer: C
 
 
 [Question 97]
-Which of the following settings for umask ensures that new files have the default permissions -rw-r&– ?
-Which of the following settings for umask ensures that new files have the default permissions -rw-r&– ?
+Which of the following settings for umask ensures that new files have the default permissions -rw-r– ?
+Which of the following settings for umask ensures that new files have the default permissions -rw-r– ?
 A. 0017
 B. 0640
 C. 0038
@@ -1953,11 +1953,11 @@ Correct Answer: B
 [Question 110]
 Which of the following commands changes all occurrences of the word "bob" in file data to "Bob" and prints the result to standard output?
 Which of the following commands changes all occurrences of the word "bob" in file data to "Bob" and prints the result to standard output?
-A. sed&’ /bob/Bob&’ data
-B. sed&’s/bob/Bob/g&’ data
-C. sed&’s/bob/Bob/&’ data
-D. sed&’/ bob/Bob/&’ data
-E. sed&’ s/bob, Bob/&’ data
+A. sed’ /bob/Bob’ data
+B. sed’s/bob/Bob/g’ data
+C. sed’s/bob/Bob/’ data
+D. sed’/ bob/Bob/’ data
+E. sed’ s/bob, Bob/’ data
 
 
 
@@ -2261,10 +2261,10 @@ Correct Answer: B
 [Question 127]
 Which of the following commands updates the already installed RPM package rpmname?
 Which of the following commands updates the already installed RPM package rpmname?
-A. rpm &–update rpmname
+A. rpm –update rpmname
 B. rpm -U rpmname
 C. rpm -q rpmname
-D. rpm &–force rpmname
+D. rpm –force rpmname
 E. rpm -u rpmname
 
 
@@ -2301,7 +2301,7 @@ Which chown command will change the ownership to dave and the group to staff on 
 Which chown command will change the ownership to dave and the group to staff on a file named data . txt?
 A. chown dave/staff data.txt
 B. chown -u dave -g staff data.txt
-C. chown &–user dave &–group staff data.txt
+C. chown –user dave –group staff data.txt
 D. chown dave:staff data.txt
 
 
@@ -2334,8 +2334,8 @@ Correct Answer: C
 
 
 [Question 131]
-Which of the following Linux filesystems preallocates a fixed number of inodes at the filesystem&’s make/creation time and does NOT generate them as needed?
-Which of the following Linux filesystems preallocates a fixed number of inodes at the filesystem&’s make/creation time and does NOT generate them as needed?
+Which of the following Linux filesystems preallocates a fixed number of inodes at the filesystem’s make/creation time and does NOT generate them as needed?
+Which of the following Linux filesystems preallocates a fixed number of inodes at the filesystem’s make/creation time and does NOT generate them as needed?
 A. ext3
 B. JFS
 C. ext2
@@ -2428,8 +2428,8 @@ Correct Answer: B
 
 
 [Question 136]
-Which of the following options for the kernel&’s command line changes the systemd boot target to rescue.target instead of the default target?
-Which of the following options for the kernel&’s command line changes the systemd boot target to rescue.target instead of the default target?
+Which of the following options for the kernel’s command line changes the systemd boot target to rescue.target instead of the default target?
+Which of the following options for the kernel’s command line changes the systemd boot target to rescue.target instead of the default target?
 A. systemd.target=rescue.target
 B. systemd.runlevel=rescue.target
 C. systemd.service=rescue.target
@@ -2610,7 +2610,7 @@ Correct Answer: CE
 [Question 146]
 Which command shows all shared libraries required by a binary executable or another shared library?
 SIMULATION
-A. &‘Idd&’
+A. ‘Idd’
 
 
 
@@ -2625,7 +2625,7 @@ Correct Answer: A
 [Question 147]
 Which world-writable directory should be placed on a separate partition in order to prevent users from being able to fill up the / filesystem?
 SIMULATION
-A. &‘/tmp&’ or &‘tmp&’ or &‘/var/tmp&’ or &‘/tmp/&’ or &‘/var/tmp/&’
+A. ‘/tmp’ or ‘tmp’ or ‘/var/tmp’ or ‘/tmp/’ or ‘/var/tmp/’
 
 
 
@@ -2655,7 +2655,7 @@ Correct Answer: A
 [Question 149]
 Where should binaries that have been compiled by the system administrator be placed in order to be made available to all users on the system?
 SIMULATION
-A. &‘/usr/local/bin/&’
+A. ‘/usr/local/bin/’
 
 
 
@@ -2781,7 +2781,7 @@ Correct Answer: D
 
 [Question 156]
 Which command must be run for the changes to take effect?
-After modifying GNU GRUB&’s configuration file, which command must be run for the changes to take effect?
+After modifying GNU GRUB’s configuration file, which command must be run for the changes to take effect?
 A. kill -HUP $(pidof grub)
 B. grub-install
 C. grub
@@ -2820,7 +2820,7 @@ touch root-can-do-this.txt
 [Question 158]
 Which command will disable swapping on a device?
 SIMULATION
-A. &‘swapoff&’ or &‘/sbin/swapoff&’
+A. ‘swapoff’ or ‘/sbin/swapoff’
 
 
 
@@ -2837,7 +2837,7 @@ When removing a package, which of the following dpkg options will completely rem
 When removing a package, which of the following dpkg options will completely remove the files including configuration files?
 A. -clean
 B. -delete
-C. &–purge
+C. –purge
 D. remove
 
 
