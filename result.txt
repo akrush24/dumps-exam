@@ -14,7 +14,7 @@ E. /etc/reboot
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -34,7 +34,7 @@ E. foo
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -54,7 +54,7 @@ E. The kernel thinks that a process is about to open a file in /mnt for reading.
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -74,7 +74,7 @@ E. Idconfig
 
 
 
-i
+
 
 Correct Answer: E
 
@@ -90,7 +90,7 @@ A. mkswap
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -110,7 +110,7 @@ E. It shares NFS partitions for use by other systems on the network.
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -129,7 +129,7 @@ D. tab
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -148,7 +148,7 @@ D. Is >> data
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -168,7 +168,7 @@ E. yell
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -188,7 +188,7 @@ E. tr-s ”<a.txt>b.txt
 
 
 
-i
+
 
 Correct Answer: E
 
@@ -207,7 +207,7 @@ D. All files within /proc/ are only readable by the root user.
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -227,7 +227,7 @@ E. update
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -246,7 +246,7 @@ D. chown dan -g staff file.txt
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -266,7 +266,7 @@ E. dpkg-search
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -286,7 +286,7 @@ E. LD_RUN_PATH
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -306,7 +306,7 @@ E. #
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -322,7 +322,7 @@ A. "cmdline" or "/proc/cmdline"
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -342,7 +342,7 @@ E. loadmod
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -362,7 +362,7 @@ E. sed ‘s/bob, Bob/’ letter > newletter
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -381,7 +381,7 @@ D. user
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -401,7 +401,7 @@ E. vi starts and opens a new file which is filled with the content of the vi buf
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -420,7 +420,7 @@ D. eoo Hll Wrld
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -440,7 +440,7 @@ E. SysV init
 
 
 
-i
+
 
 Correct Answer: BCE
 
@@ -459,7 +459,7 @@ D. quota
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -478,7 +478,7 @@ D. srwxrwxrwx
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -498,7 +498,7 @@ E. UUID
 
 
 
-i
+
 
 Correct Answer: CE
 
@@ -518,7 +518,7 @@ E. %>
 
 
 
-i
+
 
 Correct Answer: ABC
 
@@ -537,7 +537,7 @@ D. rpm -qpl apache-xml.rpm
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -557,7 +557,7 @@ E. GnuPG signatures
 
 
 
-i
+
 
 Correct Answer: ABD
 
@@ -576,7 +576,7 @@ D. case
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -596,7 +596,7 @@ E. The source and the target are on different filesystems.
 
 
 
-i
+
 
 Correct Answer: E
 
@@ -616,7 +616,7 @@ E. run/usr/local/bin/runme.sh
 
 
 
-i
+
 
 Correct Answer: AB
 
@@ -636,7 +636,7 @@ E. hash
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -656,7 +656,7 @@ E. The system’s hostname
 
 
 
-i
+
 
 Correct Answer: AD
 
@@ -676,7 +676,7 @@ E. tr –s ‘AM’ ‘AJ’ userlist.txt newlist.txt
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -695,7 +695,7 @@ D. tar cf archive.tgz
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -714,7 +714,7 @@ D. By issuing a command such as :set repetitions which repeats every subsequent 
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -734,7 +734,7 @@ E. mkdir
 
 
 
-i
+
 
 Correct Answer: BDE
 
@@ -754,7 +754,7 @@ E. .history_bash
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -774,7 +774,7 @@ E. envsetup
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -790,7 +790,7 @@ A. updatedb
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -810,7 +810,7 @@ E. echo "${pwd}"
 
 
 
-i
+
 
 Correct Answer: AC
 
@@ -829,7 +829,7 @@ D. dpkg -r pkgname
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -848,7 +848,7 @@ D. Match a literal ? character.
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -868,7 +868,7 @@ E. 6
 
 
 
-i
+
 
 Correct Answer: AE
 
@@ -887,7 +887,7 @@ D. SIGTERM(15)
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -907,7 +907,7 @@ E. Ethernet MAC address
 
 
 
-i
+
 
 Correct Answer: ABD
 
@@ -923,7 +923,7 @@ A. "/etc/yum.repos.d" or "/etc/yum.repos.d/" or "yum.repos.d" or "yum.repos.d/"
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -943,7 +943,7 @@ E. /etc/share/doc
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -963,7 +963,7 @@ E. standard output to standard input.
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -982,7 +982,7 @@ D. 0
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1001,7 +1001,7 @@ D. -ignore-space
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1020,7 +1020,7 @@ D. rpmdownload kernel
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1036,7 +1036,7 @@ A. nice
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1056,7 +1056,7 @@ E. /opt
 
 
 
-i
+
 
 Correct Answer: BCE
 
@@ -1075,7 +1075,7 @@ D. /dev/sd1p2
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1095,7 +1095,7 @@ E. yum list -update
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -1114,7 +1114,7 @@ D. 20
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -1133,7 +1133,7 @@ D. showmenu
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -1152,7 +1152,7 @@ D. rpm –list installed
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -1172,7 +1172,7 @@ E. To dynamically create or delete logical volumes.
 
 
 
-i
+
 
 Correct Answer: BDE
 
@@ -1191,7 +1191,7 @@ D. The cut command cannot use different input and output delimiters.
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1211,7 +1211,7 @@ E. rmdir ~/\dir
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -1231,7 +1231,7 @@ E. The hard linked files must be on the same filesystem.
 
 
 
-i
+
 
 Correct Answer: BCE
 
@@ -1250,7 +1250,7 @@ D. SIGKILL
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1270,7 +1270,7 @@ E. whereis
 
 
 
-i
+
 
 Correct Answer: E
 
@@ -1286,7 +1286,7 @@ A. "update" or "upgrade"
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1306,7 +1306,7 @@ E. Permissions
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -1326,7 +1326,7 @@ E. apt-cache upgrade
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1346,7 +1346,7 @@ E. It is set to the current run level.
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -1365,7 +1365,7 @@ D. grep -v ‘/#’ foo
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -1381,7 +1381,7 @@ A. ‘dmesg’ or ‘/bin/dmesg’
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1397,7 +1397,7 @@ A. dpkg-reconfigure
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1417,7 +1417,7 @@ E. info
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1437,7 +1437,7 @@ E. init reinit
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -1453,7 +1453,7 @@ A. "0077" or "077"
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1472,7 +1472,7 @@ D. -rw1 11531 Jun 5 22:45 /etc/passwd
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1492,7 +1492,7 @@ E. It ensures that all file systems listed in /etc/fstab are mounted regardless 
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -1508,7 +1508,7 @@ A. HISTFILE
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1524,7 +1524,7 @@ A. 17yy
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1544,7 +1544,7 @@ E. 7
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -1563,7 +1563,7 @@ D. The kernel
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1582,7 +1582,7 @@ D. &<
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1598,7 +1598,7 @@ A. "mkdir" or "/usr/bin/mkdir"
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1617,7 +1617,7 @@ D. The configuration file menu.lst (and grub.conf) have been replaced with grub.
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1636,7 +1636,7 @@ D. back
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1656,7 +1656,7 @@ E. PATHRC
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -1672,7 +1672,7 @@ A. quotacheck
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1691,7 +1691,7 @@ D. In bar.conf foo.conf
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1711,7 +1711,7 @@ E. shutdown-k now "rebooting"
 
 
 
-i
+
 
 Correct Answer: AC
 
@@ -1727,7 +1727,7 @@ A. "HUP” or "SIGHUP" or "1"
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1747,7 +1747,7 @@ E. /var/man
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1763,7 +1763,7 @@ A. renice
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1782,7 +1782,7 @@ D. The command is run as a direct child of the init process.
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -1802,7 +1802,7 @@ E. whereis
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -1821,7 +1821,7 @@ D. 0027
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -1840,7 +1840,7 @@ D. It will break the file into new files that are no more than 5% of the size of
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1860,7 +1860,7 @@ E. find -path /tmp -user root print
 
 
 
-i
+
 
 Correct Answer: CD
 
@@ -1880,7 +1880,7 @@ E. -s
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1896,7 +1896,7 @@ A. jobs
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -1916,7 +1916,7 @@ E. /boot/init
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1936,7 +1936,7 @@ E. cat /proc/filesystems
 
 
 
-i
+
 
 Correct Answer: AC
 
@@ -1955,7 +1955,7 @@ D. kill-TERM 123
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -1975,7 +1975,7 @@ E. Bootloader, BIOS, init system, kernel
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -1995,7 +1995,7 @@ E. VFAT
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -2014,7 +2014,7 @@ D. apt-cache requires package
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -2034,7 +2034,7 @@ E. export -v TEST
 
 
 
-i
+
 
 Correct Answer: CD
 
@@ -2054,7 +2054,7 @@ E. :&
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2074,7 +2074,7 @@ E. sed’ s/bob, Bob/’ data
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2094,7 +2094,7 @@ E. tee myapp file1.log
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -2110,7 +2110,7 @@ A. inittab
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -2129,7 +2129,7 @@ D. quiet
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -2148,7 +2148,7 @@ D. /sbin/mke3fs -j /dev/sdb1
 
 
 
-i
+
 
 Correct Answer: AB
 
@@ -2168,7 +2168,7 @@ E. 1&2>filename
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2188,7 +2188,7 @@ E. fixe2fs
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -2208,7 +2208,7 @@ E. Ctrl XX
 
 
 
-i
+
 
 Correct Answer: AD
 
@@ -2227,7 +2227,7 @@ D. GRUB recompiles the Linux Kernel and installs it on the Master Boot Record of
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -2247,7 +2247,7 @@ E. command mode
 
 
 
-i
+
 
 Correct Answer: BE
 
@@ -2263,7 +2263,7 @@ A. dmesg
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -2283,7 +2283,7 @@ E. The stderr from the command foo is saved to the file bar.
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2302,7 +2302,7 @@ D. chmod 775 /bin/foo
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -2322,7 +2322,7 @@ E. 15(SIGTERM)
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2341,7 +2341,7 @@ D. Redirection for shell commands do not work using the > character. It only wor
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -2360,7 +2360,7 @@ D. It is a distribution neutral description of locations of files and directorie
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -2379,7 +2379,7 @@ D. It changes the output order showing the last matching line first.
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2399,7 +2399,7 @@ E. rpm -u rpmname
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2419,7 +2419,7 @@ E. quotaset
 
 
 
-i
+
 
 Correct Answer: BC
 
@@ -2438,7 +2438,7 @@ D. chown dave:staff data.txt
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -2458,7 +2458,7 @@ E. u (lowercase)
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -2478,7 +2478,7 @@ E. proofs
 
 
 
-i
+
 
 Correct Answer: AC
 
@@ -2498,7 +2498,7 @@ E. It mounts all filesystems listed in /etc/fstab which have the option noauto s
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -2517,7 +2517,7 @@ D. i (interrupt) temporarily suspends editing of a file to the background wherea
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2537,7 +2537,7 @@ E. rpm -qi /etc/exports
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2557,7 +2557,7 @@ E. It allows users to specify long options for commands that normally only accep
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2577,7 +2577,7 @@ E. systemd.unit=rescue.target
 
 
 
-i
+
 
 Correct Answer: E
 
@@ -2596,7 +2596,7 @@ D. chmod 755+s /bin/foo
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2612,7 +2612,7 @@ A. "mounts"
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -2631,7 +2631,7 @@ D. r
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -2650,7 +2650,7 @@ D. printfs -i
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2670,7 +2670,7 @@ E. The content of /dev/ is stored in /etc/udev/dev and is restored during system
 
 
 
-i
+
 
 Correct Answer: BD
 
@@ -2689,7 +2689,7 @@ D. touch
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -2708,7 +2708,7 @@ D. 99
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2727,7 +2727,7 @@ D. TEST="FOO"
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -2747,7 +2747,7 @@ E. By mounting the new filesystem on the original path of the data.
 
 
 
-i
+
 
 Correct Answer: CE
 
@@ -2763,7 +2763,7 @@ A. ‘Idd’
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -2779,7 +2779,7 @@ A. ‘/tmp’ or ‘tmp’ or ‘/var/tmp’ or ‘/tmp/’ or ‘/var/tmp/’
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -2795,7 +2795,7 @@ A. interrupts
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -2811,7 +2811,7 @@ A. ‘/usr/local/bin/’
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -2831,7 +2831,7 @@ E. /etc/dpkg/dselect.cfg
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -2851,7 +2851,7 @@ E. runllevel 1
 
 
 
-i
+
 
 Correct Answer: CD
 
@@ -2871,7 +2871,7 @@ E. touch /tmp/myfile.txt
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -2890,7 +2890,7 @@ D. tail -n 10 filename
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -2909,7 +2909,7 @@ D. cp
 
 
 
-i
+
 
 Correct Answer: B
 
@@ -2929,7 +2929,7 @@ E. standard output to standard input.
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -2948,7 +2948,7 @@ D. No action is required
 
 
 
-i
+
 
 Correct Answer: D
 
@@ -2968,7 +2968,7 @@ E. root***{can,may}-do-this.[tT][xX][tT]
 
 
 
-i
+
 
 Correct Answer: ABC
 
@@ -2985,7 +2985,7 @@ A. ‘swapoff’ or ‘/sbin/swapoff’
 
 
 
-i
+
 
 Correct Answer: A
 
@@ -3004,7 +3004,7 @@ D. remove
 
 
 
-i
+
 
 Correct Answer: C
 
@@ -3023,7 +3023,7 @@ D. ps
 
 
 
-i
+
 
 Correct Answer: D
 
