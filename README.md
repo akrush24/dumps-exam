@@ -1,1 +1,1 @@
-For LPIC1 see result.txt
+Seee LPIC-101.pdf
